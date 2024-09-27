@@ -1,4 +1,4 @@
-# 👋 Welcome! profile-technology-icons for README.md
+![odoo](https://github.com/user-attachments/assets/b2811ed4-4be5-473d-b38a-159f42a9549b)# 👋 Welcome! profile-technology-icons for README.md
 
 A list of icons that can be used during GitHub profile creation to show what technology, languages are known.
 Fill free to contribute to this repository.
@@ -243,6 +243,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f"> |     NumPy      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b"> |     Pandas      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928"> |     Pygame      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928` |
+| <img height="50" src="https://github.com/user-attachments/assets/cca178e1-fe38-447c-b2db-b2c824d10dd7"> |     Odoo      | `https://github.com/user-attachments/assets/cca178e1-fe38-447c-b2db-b2c824d10dd7` |
+
 ### 🐘 php
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
